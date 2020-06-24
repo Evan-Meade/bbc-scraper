@@ -10,3 +10,19 @@ This is a repository for code created for an article on setting up an automated 
 * **bbc.py** - contains a function for grabbing the top displayed headline on BBC News
 * **example.html** - simple webpage which demonstrates HTML tag structure and attributes
 * **headline_recorder.py** - grabs top headline on BBC News and appends it to a .csv file
+
+## Setup
+
+These scripts were developed in a Python3 virtual environment on an Ubuntu 18.04 system. It is recommended that you create your own virtual environment in the repository's base directory and activate it. Once you have, you can install all the necessary Python packages with
+
+```
+pip install -r requirements.txt
+```
+
+## Usage
+
+The main functional script in this repository is `headline_recorder.py`, which appends the current top displayed headline on BBC News' website to `headlines.csv`. It can be executed with
+
+```
+python headline_recorder.py
+```
