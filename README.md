@@ -3,7 +3,7 @@ Tutorial code for automatically scraping the top displayed headline on BBC News
 
 Created by [Evan Meade](https://github.com/Evan-Meade), 2020 (MIT License)
 
-This is a code repository for an article on how to setup an automated web scraper. These scripts are meant to demonstrate the basic principles of grabbing web pages, searching for target content, and saving it to a central dataset. The files may appear a bit unrelated, but make sense in the context of the article. The tutorial also covers how to setup this code as an automated command (cron job) on a virtual machine, so that headlines can be collected without the need for user intervention.
+This is a code repository for an article on [how to setup an automated web scraper](https://keypair.xyz/2020/06/25/automated-web-scraping-with-python/). These scripts are meant to demonstrate the basic principles of grabbing web pages, searching for target content, and saving it to a central dataset. The files may appear a bit unrelated, but make sense in the context of the article. The tutorial also covers how to setup this code as an automated command (cron job) on a virtual machine, so that headlines can be collected without the need for user intervention.
 
 ## Contents
 
